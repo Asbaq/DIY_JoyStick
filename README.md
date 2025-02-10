@@ -9,6 +9,10 @@ Here's a documentation based on your request:
 ## 📌 **Introduction**  
 The **DIY JoyStick** project focuses on creating a painting and interactive experience with draggable objects, customizable color sprays, and dynamic UI panels. It involves manipulating 2D elements using different tools like brushes, spray cans, and cleaners, with each component responding to mouse input. The project includes systems to change colors, draw on surfaces, and interact with panels dynamically.
 
+🔗 Video Trailer
+
+https://youtube.com/shorts/imdJociNnSs?si=60khfnKDTpJWgEjm
+
 ## 🔥 **Features**  
 - 🖌️ **Brush Painting**: Allows users to paint on surfaces using a brush tool, tracking mouse movement.
 - 🎨 **Color Spray**: Use different spray cans to change the color of an object or surface.
